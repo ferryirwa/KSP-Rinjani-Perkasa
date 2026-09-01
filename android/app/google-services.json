@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976426865214",
+    "project_id": "rinjani-d871d",
+    "storage_bucket": "rinjani-d871d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976426865214:android:d2f579aa9f47f82e62376f",
+        "android_client_info": {
+          "package_name": "com.example.rinjani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp6ap-jUzoKB2FCJaokm85JMZXdH_3AQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
